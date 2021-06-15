@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "boots",
+        "price": 29.99,
+        "image": { "fields": { "file": { "url": "./images/products-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "straw hat",
+        "price": 10.2,
+        "image": { "fields": { "file": { "url": "./images/products-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "down jacket",
+        "price": 28.44,
+        "image": { "fields": { "file": { "url": "./images/products-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "dress",
+        "price": 30.66,
+        "image": { "fields": { "file": { "url": "./images/products-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "T-shirt",
+        "price": 13.33,
+        "image": { "fields": { "file": { "url": "./images/products-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "hat",
+        "price": 22.2,
+        "image": { "fields": { "file": { "url": "./images/products-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "overall",
+        "price": 42.8,
+        "image": { "fields": { "file": { "url": "./images/products-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "sport wear",
+        "price": 41.35,
+        "image": { "fields": { "file": { "url": "./images/products-8.jpg" } } }
+      }
+    }
+  ]
+}
